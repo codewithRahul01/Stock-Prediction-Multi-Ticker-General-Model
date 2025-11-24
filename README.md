@@ -115,4 +115,5 @@ Contributions are welcome. Suggested improvements:
 - Add a small sample dataset or caching to speed up repeated runs in CI.
 
 ## Contact
-Created by codewithRahul01 — feel free to open an issue or pull request for suggestions, bug fixes, or feature requests.
+Created by codewithRahul01 contributor DivyanshiVats13
+ — feel free to open an issue or pull request for suggestions, bug fixes, or feature requests.
